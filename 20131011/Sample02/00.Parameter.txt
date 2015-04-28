@@ -1,0 +1,60 @@
+Data Simulation Parameters
+==========================
+
+Sample #02 Sheet .........
+--------------------------
+
+1) File Name:															Sample02_20131011.xlsx
+2) Worksheet No.:													2
+3) First Column:														40 (39칼럼부터이나, 첫 칼럼은 시간이므로)
+4) Last Column:														361(실질적으로는 360)
+5) Targeted Tickness:												2,000
+6) LSL:																		1,998 (target - 1%)
+7) USL:																		2,002 (target + 1%)
+
+Sample #02 Product .......
+--------------------------
+
+1) File Name:															Sample02_20131011.xlsx
+2) Worksheet No.:													3
+3) First Column:														40 (39칼럼부터이나, 첫 칼럼은 시간이므로)
+4) Last Column:														361(실질적으로는 360)
+5) Targeted Tickness:												48
+6) LSL:																		37.72 (target - 1%)
+7) USL:																		48.48 (target + 1%)
+
+
+Sample #02 MDO_Temp ......
+--------------------------
+
+1) File Name:															Sample02_20131011.xlsx
+2) Worksheet No.:													5
+3) First Column:														2 (첫 칼럼은 시간이므로)
+4) Last Column:														9999 (실질적으로는 19, 마지막 칼럼)
+5) Targeted Tickness:												142
+6) LSL:																		140
+7) USL:																		144
+
+
+Sample #02 TDO(L)_Temp ...
+--------------------------
+
+1) File Name:															Sample02_20131011.xlsx
+2) Worksheet No.:													6
+3) First Column:														2 (첫 칼럼은 시간이므로)
+4) Last Column:														19 (TDO_L_19 ~ 22는 버림)
+5) Targeted Tickness:												170
+6) LSL:																		165
+7) USL:																		175
+
+
+Sample #02 TDO(R)_Temp ...
+--------------------------
+
+1) File Name:															Sample02_20131011.xlsx
+2) Worksheet No.:													7
+3) First Column:														2 (첫 칼럼은 시간이므로)
+4) Last Column:														19 (TDO_L_19 ~ 22는 버림)
+5) Targeted Tickness:												170
+6) LSL:																		165
+7) USL:																		175

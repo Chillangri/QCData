@@ -1,0 +1,36 @@
+Data Simulation Parameters
+==========================
+
+CFrame(Sheet)-140948.pdf
+------------------------
+
+1) Working directory setting: 								/Volumes/JHBae-Data/Dropbox/QCData
+2) Data file name: 												1.CFrame_20131001.xlsx
+3) Worksheets name: 												2013100101
+4) Worksheets number:												1
+
+5) First column:														39
+6) Last column:														360
+
+7) Targeted thickness	:											1610
+
+8) USL(Upper specification limit):						1640
+9) LSL(Lower specification limit):						1580
+
+
+
+OFrame(Product)-140606.pdf
+--------------------------
+
+1) Working directory setting: 								/Volumes/JHBae-Data/Dropbox/QCData
+2) Data file name: 												2.OFrame_20131001.xlsx
+3) Worksheets name: 												2013100102
+4) Worksheets number:												1
+
+5) First column:														39
+6) Last column:														360
+
+7) Targeted thickness	:											40
+
+8) USL(Upper specification limit):						36
+9) LSL(Lower specification limit):						44
